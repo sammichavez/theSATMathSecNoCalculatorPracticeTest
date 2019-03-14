@@ -38,7 +38,4 @@ function checkAnswer(){
     renderQuestion();
 }
 window.addEventListener("load", renderQuestion , false );
-
-
-
-
+d
